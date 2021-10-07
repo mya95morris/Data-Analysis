@@ -1,5 +1,5 @@
 # Data Analysis Projects
-Unfortunately, I'm not able to share many of the datasets that I've worked with due to the sensitivity of the clients' confidential information. Because of this, I decided to work with some public datasets that interested me. Here is where I plan to display the datasets I've analyzed and visualizations I've created. I'm extremely passionate about data and how it can be applied to make predictions that can be used to improve processes.
+Unfortunately, I'm not able to share many of the datasets from my job that I've worked with due to the sensitivity of the clients' confidential information. Because of this, I decided to work with some public datasets that interested me. Here is where I plan to display the datasets I've analyzed and visualizations I've created. I'm extremely passionate about data and how it can be applied to make predictions that can be used to improve processes.
 Libraries used : Pandas, Numpy, Matplotlib and Seaborn.
 
 
