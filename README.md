@@ -9,5 +9,5 @@ Libraries used : Pandas, Numpy, Matplotlib and Seaborn.
   [Here](https://github.com/mya95morris/Data-Analysis/blob/main/Another_Google_Play_Store_Analysis.ipynb) is another analysis I performed with the same data.
   
   ## What's next?
-  Next, I plan to analyze datasets about a topic I love (and in which I'm most likely apart of the data), beauty products! This industry truly amazes me, as I've seen sales and products SKYROCKET with the rise of social media beauty influencers. While I'm not one to spend hours on hair and makeup, I often find myself (and my spending patterns) enthralled by and influenced by the gorgeous people who are!  
+  Next, I plan to analyze datasets about a topic I love (and in which I'm most likely a *part* of the data), beauty products! This industry truly amazes me, as I've seen sales and products SKYROCKET with the rise of social media beauty influencers. While I'm not one to spend hours on hair and makeup, I often find myself (and my spending patterns) enthralled by and influenced by the gorgeous people who are!  
   
